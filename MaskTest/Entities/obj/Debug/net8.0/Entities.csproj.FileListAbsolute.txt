@@ -1,0 +1,11 @@
+D:\VisualStudio\MaskTest\Entities\bin\Debug\net8.0\Entities.deps.json
+D:\VisualStudio\MaskTest\Entities\bin\Debug\net8.0\Entities.dll
+D:\VisualStudio\MaskTest\Entities\bin\Debug\net8.0\Entities.pdb
+D:\VisualStudio\MaskTest\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\MaskTest\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+D:\VisualStudio\MaskTest\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+D:\VisualStudio\MaskTest\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+D:\VisualStudio\MaskTest\Entities\obj\Debug\net8.0\Entities.dll
+D:\VisualStudio\MaskTest\Entities\obj\Debug\net8.0\refint\Entities.dll
+D:\VisualStudio\MaskTest\Entities\obj\Debug\net8.0\Entities.pdb
+D:\VisualStudio\MaskTest\Entities\obj\Debug\net8.0\ref\Entities.dll
